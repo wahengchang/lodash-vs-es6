@@ -1,0 +1,25 @@
+{
+  "name": "lodash-vs-es6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wahengchang/lodash-vs-es6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wahengchang/lodash-vs-es6/issues"
+  },
+  "homepage": "https://github.com/wahengchang/lodash-vs-es6#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "js-meter": "^1.1.2",
+    "lodash": "^4.17.10"
+  }
+}
